@@ -1,4 +1,4 @@
-This repository contains a comprehensive list of English adjectives. The list is available in a simple text format for ease of use and accessibility.
+This repository contains a comprehensive list of English adjectives (currently 4840). The list is available in a simple text format for ease of use and accessibility.
 
 ## Contents
 - `adjectives.txt`: A text file containing a comprehensive list of English adjectives.
